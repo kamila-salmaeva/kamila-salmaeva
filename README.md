@@ -1,16 +1,14 @@
-## Hi there 👋
+# Kamila Salmaeva | Communications & Data Analysis
 
-<!--
-**kamila-salmaeva/kamila-salmaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Connect with me
+* **LinkedIn:** [Kamila Salmaeva](https://www.linkedin.com/in/ksalmaeva/)
+* **Email:** <a href="mailto:%6b%61%6d%69%6c%61%2e%73%76%40%79%61%6e%64%65%78%2e%72%75">kamila.sv@yandex.ru</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Profile & Repository Activity
+* **Total Profile:** ![Profile Views](https://github-views-counter.kamila-sv.workers.dev)
+* **Brazilian Marketplace:** ![Marketplace Views](https://github-views-counter.kamila-sv.workers.dev/brazilian-marketplace-analysis)
+* **Humanities Scoring:** ![Analytics Scoring Views](https://github-views-counter.kamila-sv.workers.dev/humanities-data-analytics-scoring)
