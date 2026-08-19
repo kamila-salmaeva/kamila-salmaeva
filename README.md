@@ -8,7 +8,8 @@
 
 ---
 
-### 📈 Profile & Repository Activity
+### &#128200; Profile & Repository Activity
 * **Total Profile:** ![Profile Views](https://github-views-counter.kamila-sv.workers.dev)
-* **Brazilian Marketplace:** ![Marketplace Views](https://github-views-counter.kamila-sv.workers.dev/brazilian-marketplace-analysis)
-* **Humanities Scoring:** ![Analytics Scoring Views](https://github-views-counter.kamila-sv.workers.dev/humanities-data-analytics-scoring)
+* **[Brazilian Marketplace](https://github.com/kamila-salmaeva/brazilian-marketplace-analysis):** ![Marketplace Views](https://github-views-counter.kamila-sv.workers.dev/brazilian-marketplace-analysis)
+* **[Humanities Scoring](https://github.com/kamila-salmaeva/humanities-data-analytics-scoring):** ![Analytics Scoring Views](https://github-views-counter.kamila-sv.workers.dev/humanities-data-analytics-scoring)
+* **[Dating app](https://github.com/kamila-salmaeva/dating-app-analysis):** ![Dating app Views](https://github-views-counter.kamila-sv.workers.dev/dating-app-analysis)
