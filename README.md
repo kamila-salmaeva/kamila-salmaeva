@@ -9,8 +9,9 @@
 ---
 ### 📊 Profile & Repository Activity
 > [!NOTE]
-> Counters track unique daily views (deduplicated). Profile and repository stats are tracked separately.<br>
-> 📂 Looking for repository-specific data? Check the README inside each repo.
+> Counters track unique daily views (deduplicated) per project.
+>
+> 📂 **Main Profile** tracks profile page views, while project links track views for their specific repositories.
 
 | Project | Views Counter | API Stats |
 | :--- | :---: | :---: |
